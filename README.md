@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Money Goyal
 
-<!--
-**money-goyal16/money-goyal16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech CSE Student at JECRC University
 
-Here are some ideas to get you started:
+💻 DSA Enthusiast | C++ Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Web Development
+
+## 📚 Currently Practicing
+- Data Structures and Algorithms
+- LeetCode
+- Problem Solving
+
+## 🛠 Tech Stack
+- C++
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/money-goyal-a3570328b
+- LeetCode: https://leetcode.com/u/moneygoyal/
+
+## 🚀 Featured Project
+
+### 📅 CP Scheduler
+A contest tracking platform that helps users stay updated with upcoming programming contests from platforms like LeetCode, Codeforces, and CodeChef.
+
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap
+
+**Features:**
+- 📌 Track upcoming contests
+- ⏳ Countdown timer for the next contest
+- 📅 Weekly schedule view
+- 🌙 Dark/Light mode
+- 📱 Responsive design
+
+⭐ Always eager to learn and improve!
