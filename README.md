@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=money-goyal16&color=blueviolet)
 
 # Hi 👋, I'm Money Goyal
 
